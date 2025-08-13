@@ -1,0 +1,7 @@
+AddonId: X360CE_Manager_Rebirth_PS
+Type: GenericPlugin
+Name: X360CE Manager Rebirth
+Author: Rashad-07
+ShortDescription: A Playnite plugin inspired by Dawoox for opening and closing X360CE with specific games.
+InstallerManifestUrl: https://github.com/rashad-07/X360CE-Manager-Rebirth/blob/main/manifest/Rashad-07_X360CE-Manager-Rebirth.yaml
+SourceUrl: https://github.com/rashad-07/X360CE-Manager-Rebirth/
