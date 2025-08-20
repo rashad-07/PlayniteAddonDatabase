@@ -1,0 +1,8 @@
+AddonId: e08cd51f-9c9a-4ee3-a094-fde03b55492f
+Type: Script
+Name: Library Cleaner
+Author: Rashad-07
+ShortDescription: Lists all games without a valid directory and removes them. emulated games are skipped.
+InstallerManifestUrl: https://raw.githubusercontent.com/Rashad-07/Library_Cleaner/main/InstallerManifest.yaml
+SourceUrl: https://github.com/Rashad-07/Library_Cleaner
+IconUrl: https://raw.githubusercontent.com/Rashad-07/Library_Cleaner/main/icon.png
